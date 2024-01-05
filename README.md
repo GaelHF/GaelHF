@@ -1,5 +1,5 @@
 # Hi 👋 I am Gaël
-## Work Smart, not hard...
+## Work 🧠Smart🧠, not 💪hard💪...
 ```py
 class GaelHF():
     
