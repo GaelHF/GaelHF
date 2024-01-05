@@ -1,13 +1,14 @@
+# Hi 👋 I am Gaël
+## Work Smart, not hard...
 ```py
-class TheH2SO4():
+class GaelHF():
     
   def __init__(self):
-    self.username = "TheH2SO4";
-    self.location = "Manchester, United Kingdom";
-    self.npmjs = "@theh2so4";
-    self.twitter = "@th3h2so4";
-    self.discord = "@TheH2SO4#0284";
-    # // self.web = "https://theh2so4.xyz"; // OUT OF ORDER
+    self.username = "GaelHF";
+    self.location = "Québec, Canada";
+    self.youtube = "@vaxs_yt";
+    self.twitter = "@gael_hf01";
+    self.discord = "@vaxs01";
   
   def __str__(self):
     return self.username
