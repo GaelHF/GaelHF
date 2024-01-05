@@ -9,12 +9,6 @@ class GaelHF():
     self.youtube = "@vaxs_yt";
     self.twitter = "@gael_hf01";
     self.discord = "@vaxs01";
-  
-  def __str__(self):
-    return self.username
-    return self.location
-    return self.discord
 
-if __name__ == '__main__':
-    me = TheH2SO4()
+Software_Engineer = GaelHF()
 ```
