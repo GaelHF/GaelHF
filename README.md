@@ -1,16 +1,19 @@
-### Hi there 👋
+```
+class TheH2SO4():
+    
+  def __init__(self):
+    self.username = "TheH2SO4";
+    self.location = "Manchester, United Kingdom";
+    self.npmjs = "@theh2so4";
+    self.twitter = "@th3h2so4";
+    self.discord = "@TheH2SO4#0284";
+    # // self.web = "https://theh2so4.xyz"; // OUT OF ORDER
+  
+  def __str__(self):
+    return self.username
+    return self.location
+    return self.discord
 
-<!--
-**GaelHF/GaelHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = TheH2SO4()
+```
