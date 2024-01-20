@@ -1,5 +1,3 @@
-![Logo](https://images-ext-1.discordapp.net/external/FFnwGedtB3oal0TIhgJKaYXYSkeTbDEawAo_Nm6gd50/https/media.tenor.com/pPKOYQpTO8AAAAPo/monkey-developer.mp4)
-
 # Hi 👋 I am Gaël
 ## Work Smart, not hard...
 ```py
