@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaël HF</h1>
-<h3 align="center">C:\> I am a student</h3>
+<h3 align="center">C:\> I am 13 years old</h3>
 
 ```py
 class GaelHF():
