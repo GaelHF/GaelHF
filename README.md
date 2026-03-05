@@ -5,11 +5,11 @@
 class GaelHF():
     
   def __init__(self):
-    self.username = "GaelHF";
-    self.location = "Québec, Canada";
-    self.youtube = "@vaxs_yt";
-    self.twitter = "@gael_hf01";
-    self.discord = "@vaxs01";
+    self.username = "GaelHF"
+    self.location = "Québec, Canada"
+    self.email = "gael.31.hf@gmail.com"
+    self.instagram = "@gael___hf"
+    self.discord = "@gael_hf"
 
 Software_Engineer = GaelHF()
 ```
